@@ -56,3 +56,9 @@ nunit-*.xml
 /.vs/OrderApi/FileContentIndex
 /OrderApi/obj/
 /OrderApi/obj/Debug/net8.0/OrderApi.AssemblyInfoInputs.cache
+
+/RestaurantApi/obj/Debug/net8.0/OrderApi.AssemblyInfo.cs
+/.vs/RestaurantApi/FileContentIndex
+/RestaurantApi/obj/
+/RestaurantApi/obj/Debug/net8.0/OrderApi.AssemblyInfoInputs.cache
+/.vs
